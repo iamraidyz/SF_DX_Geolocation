@@ -32,28 +32,28 @@
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1512470988548,
-            "changeTime": 1512470988548,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "modifiedTime": 1512471454663,
+            "changeTime": 1512471454663,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1512470357112,
-            "changeTime": 1512470357112,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1512471701761,
+            "changeTime": 1512471701761,
+            "isWorkspace": false,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -270,10 +270,10 @@
         {
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 165,
-            "modifiedTime": 1512470625059,
-            "changeTime": 1512470625059,
-            "contentHash": "7443426ece5bc685396dea5b472aa94c874fb670",
+            "size": 230,
+            "modifiedTime": 1512471551313,
+            "changeTime": 1512471551313,
+            "contentHash": "bb54a2ab7050e4298cf511482cde41b8e60cd18a",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -346,92 +346,586 @@
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\tabs\\AccountLocator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\tabs\\AccountLocator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 266,
             "modifiedTime": 1512470988537,
             "changeTime": 1512470988537,
-            "contentHash": "1bfaeb286290ee06e63c10f05adf982d3e3a13f5"
+            "contentHash": "1bfaeb286290ee06e63c10f05adf982d3e3a13f5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17141,
             "modifiedTime": 1512470988560,
             "changeTime": 1512470988560,
-            "contentHash": "06604bfefa73a8eaf7547b1af014a3849941fd64"
+            "contentHash": "06604bfefa73a8eaf7547b1af014a3849941fd64",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4456,
             "modifiedTime": 1512470988565,
             "changeTime": 1512470988565,
-            "contentHash": "dcb5d78b4bed4d421499dc2ebecc868b434d791e"
+            "contentHash": "dcb5d78b4bed4d421499dc2ebecc868b434d791e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4796,
             "modifiedTime": 1512470988570,
             "changeTime": 1512470988570,
-            "contentHash": "b45a2e5c1d9d0961da91b739fae3602c513510ae"
+            "contentHash": "b45a2e5c1d9d0961da91b739fae3602c513510ae",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4460,
             "modifiedTime": 1512470988574,
             "changeTime": 1512470988574,
-            "contentHash": "d4c194239079fd402b0e2477f0b9b3d721d31b90"
+            "contentHash": "d4c194239079fd402b0e2477f0b9b3d721d31b90",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512470988536,
             "changeTime": 1512470988536,
-            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b"
+            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512470988573,
             "changeTime": 1512470988573,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512471204949,
+            "changeTime": 1512471204949,
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512471128861,
+            "changeTime": 1512471128861,
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 602,
+            "modifiedTime": 1512471792884,
+            "changeTime": 1512471792884,
+            "contentHash": "0fbc2ce403714f83418802ce11e85350c69d5724"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1512471204941,
+            "changeTime": 1512471204941,
+            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1512471240989,
+            "changeTime": 1512471240989,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 395,
+            "modifiedTime": 1512471875710,
+            "changeTime": 1512471875710,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1512471204946,
+            "changeTime": 1512471204946,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1512471204950,
+            "changeTime": 1512471204950,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 126,
+            "modifiedTime": 1512471155245,
+            "changeTime": 1512471155245,
+            "contentHash": "9b4234419cef0a2a09d36b256ebd60aac8a1a2b2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1512471128854,
+            "changeTime": 1512471128854,
+            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 170,
+            "modifiedTime": 1512471166318,
+            "changeTime": 1512471166318,
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1512471128856,
+            "changeTime": 1512471128856,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1512471128858,
+            "changeTime": 1512471128858,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1512471128862,
+            "changeTime": 1512471128862,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1512471454667,
+            "changeTime": 1512471454667,
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1512471454918,
+            "changeTime": 1512471454918,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1512471454920,
+            "changeTime": 1512471454920,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2586,
+            "modifiedTime": 1512471454921,
+            "changeTime": 1512471454921,
+            "contentHash": "95a44b9ca71fe03fdf65ddd8eea12f1910f38de2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1512471454934,
+            "changeTime": 1512471454934,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1512471454936,
+            "changeTime": 1512471454936,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "size": 389832,
+            "modifiedTime": 1512471454980,
+            "changeTime": 1512471454980,
+            "contentHash": "19438b9a9d066e915e96db27259a5948c4f4f4e3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 741401,
+            "modifiedTime": 1512471454986,
+            "changeTime": 1512471454986,
+            "contentHash": "a93b2d29416cb0ec882ac28f41dcc4bd18e1cd99",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "isDirectory": false,
+            "size": 14061,
+            "modifiedTime": 1512471454991,
+            "changeTime": 1512471454991,
+            "contentHash": "d7015409fa5ce3f54a60c25562a7ebf858d90397",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "isDirectory": false,
+            "size": 137208,
+            "modifiedTime": 1512471455055,
+            "changeTime": 1512471455055,
+            "contentHash": "87938b386fd7224a667332336c59b79e7fa0fde6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "size": 186247,
+            "modifiedTime": 1512471455060,
+            "changeTime": 1512471455060,
+            "contentHash": "0e397274f80e9a86d4ad7a6534c23ba9e10b6448",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512471454915,
+            "changeTime": 1512471454915,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512471454935,
+            "changeTime": 1512471454935,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512471455055,
+            "changeTime": 1512471455055,
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512471493415,
+            "changeTime": 1512471493415,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 359,
+            "modifiedTime": 1512471874637,
+            "changeTime": 1512471874637,
+            "contentHash": "a1dfb675cb3837de48c7cc113f0ac39c31ccfbca"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1512471493409,
+            "changeTime": 1512471493409,
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1512471545080,
+            "changeTime": 1512471545080,
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 797,
+            "modifiedTime": 1512471873617,
+            "changeTime": 1512471873617,
+            "contentHash": "6da6d637d46abc6f782408b9da718702ca9f3dd9"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1512471493413,
+            "changeTime": 1512471493413,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1512471493416,
+            "changeTime": 1512471493416,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512471701766,
+            "changeTime": 1512471701766,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1512471715334,
+            "changeTime": 1512471715334,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+        }
+    ],
+    [
+        "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\PVAVRUSKA\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1512471701771,
+            "changeTime": 1512471701771,
+            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
         }
     ]
 ]
